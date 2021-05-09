@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 오타, 맞춤법 오류 제보
+    url: https://github.com/koreanbots/v2-testing/issues/79
+    about: 다음 이슈에 댓글로 남겨주세요
+  - name: KOREANBOTS 공식 디스코드
+    url: https://discord.gg/JEh53MQ
+    about: 질문이 있으시다면 디스코드를 이용해주세요
