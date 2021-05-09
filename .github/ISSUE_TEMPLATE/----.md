@@ -1,0 +1,16 @@
+---
+name: 제안하기
+about: 기능 추가/개선 제안
+title: "[제안] "
+labels: 's: enhancement'
+assignees: ''
+
+---
+
+# 제안 내용
+
+...
+
+# 기대효과
+
+...
